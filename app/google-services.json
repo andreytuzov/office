@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "154173163148",
+    "firebase_url": "https://office-6a662.firebaseio.com",
+    "project_id": "office-6a662",
+    "storage_bucket": "office-6a662.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154173163148:android:cdd4b3b98fcfd09d429da9",
+        "android_client_info": {
+          "package_name": "io.office"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154173163148-j5ucv805ke2l8nd4gv4iaqeb4bhri5fk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.office",
+            "certificate_hash": "7add3581afe6ff606f7f0722c48ff4a09db2ef2f"
+          }
+        },
+        {
+          "client_id": "154173163148-ch07bhkkd0p9tklh410qh14tdfiqvbtv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn481cKnJ6dzWBOaeDbHWzTj-aLcSSZIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154173163148-ch07bhkkd0p9tklh410qh14tdfiqvbtv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
