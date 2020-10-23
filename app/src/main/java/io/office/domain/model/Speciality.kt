@@ -1,6 +1,6 @@
 package io.office.domain.model
 
 data class Speciality(
-    val id: Int,
+    val id: Long,
     val name: String
 )

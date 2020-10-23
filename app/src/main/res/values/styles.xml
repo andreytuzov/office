@@ -7,4 +7,9 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+
+    <style name="AuthTheme" parent="Theme.AppCompat.Light.NoActionBar">
+
+    </style>
+
 </resources>

@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Office</string>
+    <string name="endpoint" translatable="false">https://gitlab.65apps.com/65gb/static/raw/master/</string>
 </resources>
